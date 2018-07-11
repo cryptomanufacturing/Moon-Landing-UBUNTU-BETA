@@ -23,7 +23,7 @@ sleep 1 # let the miner load the mem on the cards
 	CurrentRam=$(nvidia-smi -i 0 --query-gpu=memory.used --format=csv| sed 's/[^0-9]*//g') # store current ram used for card #0 and Subtract anything thats not a number
 		if [ "$CurrentRam" -lt "$MiningRam" ] # Check to see if GPU is using less than minimum ram req for operating lvl
 			then
-				 ((MinerFailed ++)) # Threshold failed this many times +1
+				 MinerFailed=$((MinerFailed+1)) # Threshold failed this many times +1
 				echo "Miner Failed Threshold Test Failed $MinerFailed Times"
 				
 				clear
