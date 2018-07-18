@@ -38,6 +38,7 @@ sleep 1 # let the miner load the mem on the cards
 					(
 						echo   "Restarting Miner" # UGH CRAP
 						killall -r --regexp SmartMiner.v3.1 # kill the miner
+						killall -r --regexp miner # kill the miner
 		 				gnome-terminal -- ./RunMiner.sh	# Restart The Miner
 						
 						exec bash Mining_Status.sh # Restart Script From the Top
