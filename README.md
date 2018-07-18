@@ -24,6 +24,9 @@
 # Adjust the miner launch command to the proper amount of GPU's in your system and change the "Rewards Adress" to your own.... or not up to you! :).
 
 # Step 5
+# Choose which miner you would like to use by commenting out the other one inside a file called RunMiner.sh
+
+# Step 6
 # Launch everything by opening terminal and running the command below.. Enjoy.
 
 # Command: ./Launch_Control.sh
