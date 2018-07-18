@@ -50,4 +50,3 @@ sleep 1 # let the miner load the mem on the cards
 		fi
 		
 done 
-
