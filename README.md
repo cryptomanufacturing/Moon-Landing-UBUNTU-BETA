@@ -17,7 +17,7 @@
 # Adjust amount of system GPU's in file called GPU_Settings and add/remove settings based on how many cards you have installed.
 
 # Step 3
-# Adjust the Minimum Ram lvl at which your GPU can mine in file called Minin_Status,"MiningRam= ****" (line 10).
+# Adjust the Minimum Ram level at which your GPU can mine in file called Minin_Status,"MiningRam= ****" (line 10).
 
 # Step 4
 # Adjust the miner launch command to the proper amount of GPU's in your system and change the "Rewards Adress" to your own.... or not up to you! :).
