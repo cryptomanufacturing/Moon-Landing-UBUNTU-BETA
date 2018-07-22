@@ -20,7 +20,7 @@
 # Adjust the Minimum Ram level at which your GPU can mine in file called Mining_Status,"MiningRam= ****" (line 10).
 
 # Step 4
-# Adjust the miner launch command to the proper amount of GPU's in your system and change the "Rewards Adress" to your own.... .
+# Adjust the miner launch command to the proper amount of GPU's in your system and change the "Rewards Adress" to your own
 
 # Step 5
 # Choose which miner you would like to use by commenting out the other one inside a file called RunMiner.sh
