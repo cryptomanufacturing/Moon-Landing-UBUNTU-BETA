@@ -1,4 +1,4 @@
-# MoonLanding V1 Beta
+# MoonLanding V1 Beta Ubuntu
 # 2018-07-18
 # Made By Gary Bard 
 # Absolutley free !!! Brought to you by HashPowerPool.com
