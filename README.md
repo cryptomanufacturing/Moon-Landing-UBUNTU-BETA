@@ -30,5 +30,10 @@
 
 # Command: ./Launch_Control.sh
 
+# Step 7
+# Enjoy!
+# Courtesy of HashPowerPool.com
+
+
 
 
