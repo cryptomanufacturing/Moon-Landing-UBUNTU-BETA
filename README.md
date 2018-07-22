@@ -1,11 +1,10 @@
 # MoonLanding V1 Beta Ubuntu
 # 2018-07-18
 # Made By Gary Bard 
-# Absolutley free !!! Brought to you by HashPowerPool.com
-# This Script will keep you making money please consider donating!
+# Absolutely free !!! Brought to you by HashPowerPool.com
 
 # Donations are most welcome!
-# Money will be used to keep the pool funtional !
+# Money will be used to keep the pool functional !
 # BTC Address: 1LFd286Sz9ZpiWf29AYEGvbLjaNt59Eco7
 # ETH Address: 0x068ffb81fa71f774254498ffcc82b5ba5ebf848e
 # Aion erc-20 Address: 0x8F5AC1881Dc15A66e0d5586040B8492bdf17BaFa
