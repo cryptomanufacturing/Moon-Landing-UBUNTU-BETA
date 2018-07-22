@@ -10,8 +10,8 @@
 # Aion erc-20 Address: 0x8F5AC1881Dc15A66e0d5586040B8492bdf17BaFa
 # Aion-1 Address: 0xa01e968221584946dac1e6842bf985de7ff49c8b9913220ed793d64a150b2864
 
-# Step1
-# Make All Files Executable, Right Click on each file and select Properties, Under Permissions Tab Checkmark The Exeute optioon, if you later have an issue than also allow Read and Write Access.
+# Step 1
+# Make All Files Executable, Right Click on each file and select Properties, Under Permissions Tab Checkmark The execute option, if you later have an issue than also allow Read and Write Access.
 
 # Step 2
 # Adjust amount of system GPU's in file called GPU_Settings and add/remove settings based on how many cards you have installed.
